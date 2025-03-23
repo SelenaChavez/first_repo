@@ -1,5 +1,5 @@
 //librerías
 //función
 print ("HelloGit")
-buenas
+buenas, cambiando cositas para agregar a la main 
 
